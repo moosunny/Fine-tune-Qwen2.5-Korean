@@ -24,7 +24,7 @@ nvidia-smi
 
 - `nvidia-smi`  실행 후 CUDA 버전 확인
 
-![image.png](attachment:13ff2fc6-26be-4ad1-bf64-650db35ecd40:image.png)
+![Image](https://github.com/user-attachments/assets/235141ba-4e16-4046-9c17-242ca503d1ed)
 
 - NVIDIA 공식 레포지토리 추가 후 CUDA 12.4 설치 진행
 
