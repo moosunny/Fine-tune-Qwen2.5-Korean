@@ -76,7 +76,7 @@ code_llm = Llama(model_path="/home/mmm060400/KTB/models/qwen2.5-coder-3b-instruc
                  )
 ```
 
-![image.png](attachment:292d2c8f-b129-4dcd-adc9-81507329fe53:image.png)
+<img width="412" alt="Image" src="https://github.com/user-attachments/assets/76bc376d-4844-4376-a13a-333d8c654504" />
 
 | 36개 반복 레이어를 GPU로 이동 | 트랜트포머 block 전체를 CUDA에서 계산 |
 | --- | --- |
