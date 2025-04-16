@@ -3,9 +3,9 @@
 ![Image](https://github.com/user-attachments/assets/7b00b0b4-2589-4cd6-b33c-ef640fa89a02)
 
 ## AI 설계(기간: 25.04.14 ~ 25.04.25)
-1. 단계 1: 모델 API 설계
+1. [단계 1: 모델 API 설계]
 2. 단계 2: 모델 추론 성능 최적화
-3. 단계 3: 서비스 아키텍처 모듈화
+3. [단계 3: 서비스 아키텍처 모듈화](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/%EB%8B%A8%EA%B3%843%3A%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EB%AA%A8%EB%93%88%ED%99%94.md)
 4. 단계 4: 
 5. 단계 5: 
 6. 단계 6: 
