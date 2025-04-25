@@ -6,10 +6,11 @@
 1. [단계 1: 모델 API 설계](http://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/1%EB%8B%A8%EA%B3%84:%20%EB%AA%A8%EB%8D%B8%20API%20%EC%84%A4%EA%B3%84.md)
 2. [단계 2: 모델 추론 성능 최적화](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/2%EB%8B%A8%EA%B3%84%3A%20%EB%AA%A8%EB%8D%B8%20%EC%B6%94%EB%A1%A0%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
 3. [단계 3: 서비스 아키텍처 모듈화](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/%EB%8B%A8%EA%B3%843%3A%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EB%AA%A8%EB%93%88%ED%99%94.md)
-4. 단계 4: 
-5. 단계 5: 
-6. 단계 6: 
+4. [단계 4: Langchain 기반 멀티스텝 AI 컴토 구현](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/4%EB%8B%A8%EA%B3%84%3A%20Langchain%20%EA%B8%B0%EB%B0%98%20%EB%A9%80%ED%8B%B0%EC%8A%A4%ED%85%9D%20AI%20%EA%B5%AC%ED%98%84%20%EA%B2%80%ED%86%A0.md)
+5. 단계 5: RAG (Retrieval Augmented Generation) 적용 설계
+6. 단계 6: MCP (모델 컨텍스트 프로토콜) 활용 설계
 7. [단계 7: 서비스 인프라 확장과 모니터링 설계](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/7%EB%8B%A8%EA%B3%84%3A%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%ED%99%95%EC%9E%A5%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EA%B3%BC%20%EC%84%A4%EA%B3%84.md)
+8. 단계 8: 최종 통합 설계 및 회고
 
 
 ### 🚨 트러블 슈팅 기록
