@@ -10,7 +10,7 @@
 5. 단계 5: RAG (Retrieval Augmented Generation) 적용 설계
 6. 단계 6: MCP (모델 컨텍스트 프로토콜) 활용 설계
 7. [단계 7: 서비스 인프라 확장과 모니터링 설계](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/7%EB%8B%A8%EA%B3%84%3A%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%ED%99%95%EC%9E%A5%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EA%B3%BC%20%EC%84%A4%EA%B3%84.md)
-8. 단계 8: 최종 통합 설계 및 회고
+8. [단계 8: 최종 통합 설계 및 회고](https://github.com/moosunny/YouTil_AI/blob/main/AI%20%EC%84%A4%EA%B3%84/8%EB%8B%A8%EA%B3%84%3A%20%EC%B5%9C%EC%A2%85%20%ED%86%B5%ED%95%A9%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%ED%9A%8C%EA%B3%A0.md)
 
 
 ### 🚨 트러블 슈팅 기록
