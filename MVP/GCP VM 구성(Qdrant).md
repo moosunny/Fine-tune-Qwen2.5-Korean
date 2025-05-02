@@ -132,8 +132,6 @@ http://<GCP 인스턴스 외부 IP>:6334/dashboard
 
 ---
 
----
-
 # 5. Collection 생성 및 Collection Config 설정
 
 - Web UI Console 창에서 입력 후 RUN 버튼 누르기
